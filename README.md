@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Roushan-Sharma</h1>
 <h3 align="center">A passionate Software developer from BHARAT</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw1MTHoib2O6JSCQlRm5uD1Q&ust=1714565261608000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDO9rzz6YUDFQAAAAAdAAAAABB5"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8e7b8fa6ba5ff2c93744149689a1c4eee6b663f3bea9463d109c76ba1e22b3a4/68747470733a2f2f692e6962622e636f2f4d6b6a673279382f3132322e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushan-world&label=Profile%20views&color=0e75b6&style=flat" alt="roushan-world" /></p>
 
