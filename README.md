@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/roushan_world" target="blank"><img src="https://img.shields.io/twitter/follow/roushan_world?logo=twitter&style=for-the-badge" alt="roushan_world" /></a> </p>
 
-- 🔭 I’m currently working on **Python FullStack Developer**
+- 🔭 I’m currently working on **Python FullStack Developer.**
 
-- 🌱 I’m currently learning **Django,Python,Html,CSS,JavaScript,ReactJS,NodeJS,MySQL,MongoDB,RestAPI**
+- 🌱 I’m currently learning **Django,Python,Html,CSS,JavaScript,ReactJS,NodeJS,MySQL,MongoDB,RestAPI.**
 
-- 💬 Ask me about **Frontend,Backend,DataBases**
+- 💬 Ask me about **Frontend,Backend,DataBases.**
 
 - 📫 How to reach me **roushankr26@gmail.com**
 
