@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Roushan-Sharma</h1>
 <h3 align="center">A passionate Software developer from BHARAT</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAliShahSafdari&psig=AOvVaw2N2SS4cd5wSekBNdtRBj5i&ust=1714565668302000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjK_ov16YUDFQAAAAAdAAAAABAE"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faprilescobar.medium.com%2Fpart-1-full-stack-application-set-up-react-with-ruby-on-rails-56ba2258de48&psig=AOvVaw2lQJcKW-KkaCKwk_XkSNvn&ust=1714565834258000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKinrs716YUDFQAAAAAdAAAAABAp"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushan-world&label=Profile%20views&color=0e75b6&style=flat" alt="roushan-world" /></p>
 
