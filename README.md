@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushan-world&label=Profile%20views&color=0e75b6&style=flat" alt="roushan-world" /></p>
 
-<p align="left"> <a href="https://twitter.com/roushan_world" target="blank"><img src="https://img.shields.io/twitter/follow/roushan_world?logo=twitter&style=for-the-badge" alt="roushan_world" /></a> </p>
+<p align="left"> <a href="https://x.com/coder_Roushan" target="blank"><img src="https://img.shields.io/twitter/follow/roushan_world?logo=twitter&style=for-the-badge" alt="roushan_world" /></a> </p>
 
 - 🔭 I’m currently working on **Python FullStack Developer.**
 
